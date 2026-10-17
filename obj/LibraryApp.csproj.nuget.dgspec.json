@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\LibraryApp\\LibraryApp.csproj": {}
+    "C:\\Users\\karpa\\OneDrive\\Munka\\SZTE\\Üzleti alkalmazások\\sources\\HG69P8\\LibraryApp\\LibraryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\LibraryApp\\LibraryApp.csproj": {
+    "C:\\Users\\karpa\\OneDrive\\Munka\\SZTE\\Üzleti alkalmazások\\sources\\HG69P8\\LibraryApp\\LibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\LibraryApp\\LibraryApp.csproj",
+        "projectUniqueName": "C:\\Users\\karpa\\OneDrive\\Munka\\SZTE\\Üzleti alkalmazások\\sources\\HG69P8\\LibraryApp\\LibraryApp.csproj",
         "projectName": "LibraryApp",
-        "projectPath": "C:\\Users\\Admin\\LibraryApp\\LibraryApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\LibraryApp\\obj\\",
+        "projectPath": "C:\\Users\\karpa\\OneDrive\\Munka\\SZTE\\Üzleti alkalmazások\\sources\\HG69P8\\LibraryApp\\LibraryApp.csproj",
+        "packagesPath": "C:\\Users\\karpa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karpa\\OneDrive\\Munka\\SZTE\\Üzleti alkalmazások\\sources\\HG69P8\\LibraryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\karpa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
